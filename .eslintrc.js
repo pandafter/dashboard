@@ -76,5 +76,8 @@ module.exports = {
         ],
       },
     ],
+    'eol-last': 0,
+    'import/no-cycle': 0,
+    'no-unused-vars': 0,
   },
 };
